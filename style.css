@@ -87,6 +87,8 @@ iframe{
 }
 .iframe{
     background-color: var(--cor05);
+    padding-bottom: 59%;
+    padding: 20px;
 }
 article > h1{
     font-family: var(--fonte-android);
