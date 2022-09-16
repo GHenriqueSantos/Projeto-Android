@@ -30,7 +30,7 @@ a.externo::after{
     content: '\00A0\1F517';
 }
 header{
-    background-image: linear-gradient(to bottom, #2FA866, #1A5C37,#063D1E);
+    background-image: linear-gradient(to bottom, var(--cor03), var(--cor05));
     height: 150px;
 }
 header > h1{
@@ -38,10 +38,12 @@ header > h1{
     color: white;
     font-family: var(--fonte-destaque);
     font-size: 40px;
+    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.267);
 }
 header > p{
     color: white;
     text-align: center;
+    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.267);
 }
 nav{
     background-color: var(--cor05);
