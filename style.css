@@ -54,6 +54,11 @@ nav > a{
     display: inline;
     padding: 10px;
     text-decoration: none;
+    transition-duration: 0.5s;
+}
+nav > a:hover{
+    background-color: var(--cor03);
+    color: var(--cor05);
 }
 main{
     min-width: 300px;
