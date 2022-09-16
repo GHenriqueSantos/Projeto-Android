@@ -89,12 +89,15 @@ iframe{
 }
 article > h1{
     font-family: var(--fonte-android);
-    color: #063D1E;
+    background-image: linear-gradient(to right, var(--cor03), var(--cor01));
+    padding: 5px;
+    
 }
 article > h2{
     font-family: var(--fonte-android);
-    color: #063D1E;
+    background-image: linear-gradient(to right, var(--cor03), var(--cor01));
     background-color: #20ad60;
+    padding: 5px;
 }
 main p{
     margin: 15px 0px 15px 0px;
