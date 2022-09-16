@@ -49,7 +49,7 @@ nav{
 nav > a{
     color: aliceblue;
     display: inline;
-    padding: 15px;
+    padding: 10px;
     text-decoration: none;
 }
 main{
@@ -99,6 +99,7 @@ main p{
 p > a{
     color: black;
     background-color: #35f086;
+    text-decoration: none;
 }
 p > strong{
     background-color: #35f086;
