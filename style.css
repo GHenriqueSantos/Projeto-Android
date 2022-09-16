@@ -83,6 +83,7 @@ iframe{
     display: block;
     margin: auto;
     width: 90%;
+    padding: 20px;
 }
 .iframe{
     background-color: var(--cor05);
