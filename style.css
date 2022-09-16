@@ -47,9 +47,10 @@ header > p{
 }
 nav{
     background-color: var(--cor05);
+    padding: 10px;
 }
 nav > a{
-    color: aliceblue;
+    color: white;
     display: inline;
     padding: 10px;
     text-decoration: none;
